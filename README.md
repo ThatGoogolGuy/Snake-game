@@ -1,2 +1,1 @@
-# Snake-game
-Written in python
+from a bro code tutorial
